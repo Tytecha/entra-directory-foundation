@@ -1,0 +1,11 @@
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Account enabled (true/false) [accountEnabled],First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [officeLocation],City [city],ZIP or postal code [postalCode],Business phone [businessPhones],Mobile phone [mobilePhone]
+Noah Patel,noah.patel@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Noah,Patel,Payroll Specialist,Finance,US,,,United States,,,,,
+Olivia Grant,oliva.grant@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Olivia,Grant,Accounts Receivable Specialist,Finance,US,,,United States,,,,,
+Ethan Wilson,ethan.wilson@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Ethan,Wilson,Sales Manager,Sales,US,,,United States,,,,,
+Sophia Martinez,sophia.martinez@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Sophia,Martinez,Account Executive,Sales,US,,,United States,,,,,
+Liam Thompson,liam.thompson@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Liam,Thompson,Account Executive,Sales,US,,,United States,,,,,
+Chloe Bennett,chloe.bennett@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Chloe,Bennett,Sales Development Representative,Sales,US,,,United States,,,,,
+Grace Lewis,grace.lewis@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Grace,Lewis,HR Manager,HR,US,,,United States,,,,,
+Daniel Kim,daniel.kim@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Daniel,Kim,HR Coordinator,HR,US,,,United States,,,,,
+Riley Parker,riley.parker@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Riley,Parker,Contract Project Coordinator,Contractors,US,,,United States,,,,,
+Cameron Ellis,cameron.ellis@tholliday1979gmail.onmicrosoft.com,REPLACE-WITH-YOUR-OWN,TRUE,Cameron,Ellis,Contract Content Specialist,Contractors,US,,,United States,,,,,
