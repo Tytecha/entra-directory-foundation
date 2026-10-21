@@ -1,5 +1,5 @@
-# northwind-entra-iam-lab
-Microsoft Entra ID lab for Zero to Sec Academy: directory setup, user management, and security groups.
+# entra-directory-foundation
+Microsoft Entra ID: directory setup, user management, and security groups.
 
 ## Adding the Sixteenth Northwind User
 
