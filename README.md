@@ -41,3 +41,10 @@ These totals exclude account creation and group memberships.
 
 Group-based application assignment requires Microsoft Entra ID P1 or P2.
 It was not implemented in this free-tier lab.
+
+## Audit Log Evidence
+
+The screenshot shows filtered audit log entries for my lab administrator's
+directory changes, including timestamps, activities, targets, and status.
+
+![Filtered Northwind audit log entries](screenshots/audit-log-evidence.png)
